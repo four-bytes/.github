@@ -13,7 +13,7 @@ Closes #{issue_number}
 
 ## Checklist
 
-- [ ] Code follows project conventions (CLAUDE.md)
+- [ ] Code follows the project conventions (CONTRIBUTING.md, AGENTS.md)
 - [ ] Self-review performed
 - [ ] Tests added/updated as needed
 - [ ] HISTORY.md updated

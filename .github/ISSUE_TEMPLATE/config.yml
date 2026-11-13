@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/four-bytes/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately via the repository's Security tab, not as an issue.

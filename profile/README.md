@@ -1,6 +1,6 @@
 # 4 Bytes
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.1-8892BF.svg)](https://php.net/)
 [![Shopware](https://img.shields.io/badge/Shopware-6.x-blue.svg)](https://shopware.com/)
 
@@ -106,26 +106,4 @@ composer cs-check
 
 ## License
 
-```
-MIT License
-
-Copyright (c) 2025 4 Bytes
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-```
-
----
-
-*Supporting developers and businesses with quality open source solutions and expert Shopware 6 development.*
+New releases of our open source packages are licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0); see the `LICENSE` file in each repository.
